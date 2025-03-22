@@ -6,10 +6,10 @@ I built this Power BI report to analyze my personal Spotify user data for the la
 3.0 == full listening history
 
 - Home page<br />
-<img src="images/home.jpg" alt="Home" width="400"><br />
+<img src="images/home.jpg" alt="Home" width="800"><br />
 - Main page<br />
-<img src="images/wrapped.jpg" alt="Example Image 2" width="400"><br />
+<img src="images/wrapped.jpg" alt="Example Image 2" width="800"><br />
 - Detail page<br />
-<img src="images/detail.jpg" alt="Example Image 2" width="400"><br />
+<img src="images/detail.jpg" alt="Example Image 2" width="800"><br />
 - Behavior page<br />
-<img src="images/behavior.jpg" alt="Example Image 2" width="400"><br />
+<img src="images/behavior.jpg" alt="Example Image 2" width="800"><br />
