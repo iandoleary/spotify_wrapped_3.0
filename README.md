@@ -29,4 +29,4 @@ To request your Spotify listening history, navigate to your account's privacy pa
 <img src="images/behavior.jpg" alt="Example Image 2" width="1000"><br />
 - This breaks down listens by device, shuffle frequency, plays by location, and some other metrics that aren't necessarily related to music preference.
 <img src="images/behavior_switzerland.jpg" alt="Example Image 2" width="1000"><br />
-- These numbers for Switzerland would be much higher if my phone didn't die during my 4 hour 5,000' descent from Mannlichen to Lauterbrunnen. Switzerland is unbelievable and some Dark Side of the moon would have been great company.
+- These numbers for Switzerland would be much higher if my phone didn't die during my 4 hour 5,000' descent from Mannlichen to Lauterbrunnen. Switzerland is unbelievable and some Dark Side of the Moon would have been great company.
