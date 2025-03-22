@@ -15,15 +15,15 @@ To request your Spotify listening history, navigate to your account's privacy pa
 <img src="images/wrapped.jpg" alt="Example Image 2" width="1000"><br />
 - This page displays similar information to the real Spotify wrapped that gets sent to users: top artists, top songs, hours listened, favorite artist, favorite song, etc...
 <img src="images/wrapped_pink_floyd.jpg" alt="Example Image 2" width="1000"><br />
-- This page displays similar information to the real Spotify wrapped that gets sent to users: top artists, top songs, hours listened, favorite artist, favorite song, etc...
+- Though not my most listened to artist, Pink Floyd is definitely my favorite. Listen to Echoes live in Pompeii and change my mind.
 
 ## Detail page<br />
 <img src="images/detail.jpg" alt="Example Image 2" width="1000"><br />
 - I kept some of the visuals from the main page to let the user break things down more dynamically.
-- I thought the listens by time of day distribution was really interesting - evidently I'm a bit of a night owl.
+- I thought the listens by time of day distribution was really interesting - evidently I'm a bit of a night owl. Those 4 and 5 AM sessions were definitely quarantine.
 - Funnily, just about every bucket at the tail end of my song length distribution is Pink Floyd.
 <img src="images/detail_glass_animals.jpg" alt="Example Image 2" width="1000"><br />
-- I kept some of the visuals from the main page to let the user break things down more dynamically.
+- I don't think I've seen any band live more than Glass Animals. HTBAHB, Dreamland, and ZABA are timeless.
 
 ## Behavior page<br />
 <img src="images/behavior.jpg" alt="Example Image 2" width="1000"><br />
