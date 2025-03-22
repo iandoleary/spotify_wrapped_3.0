@@ -15,8 +15,9 @@ To request your Spotify listening history, navigate to your account's privacy pa
 <img src="images/wrapped.jpg" alt="Example Image 2" width="1000"><br />
 - This page displays similar information to the real Spotify wrapped that gets sent to users: top artists, top songs, hours listened, favorite artist, favorite song, etc...
 <br />
+
 <img src="images/wrapped_pink_floyd.jpg" alt="Example Image 2" width="1000"><br />
-* Though not my most listened to artist, Pink Floyd is definitely my favorite. Listen to Echoes live in Pompeii and change my mind.
+- Though not my most listened to artist, Pink Floyd is definitely my favorite. Listen to Echoes live in Pompeii and change my mind.
 <br />
 
 ## Detail page<br />
@@ -25,6 +26,7 @@ To request your Spotify listening history, navigate to your account's privacy pa
 - I thought the listens by time of day distribution was really interesting - evidently I'm a bit of a night owl. Those 4 and 5 AM sessions were definitely quarantine.
 - Funnily, just about every bucket at the tail end of my song length distribution is Pink Floyd.
 <br />
+
 <img src="images/detail_glass_animals.jpg" alt="Example Image 2" width="1000"><br />
 - I don't think I've seen any band live more than Glass Animals. HTBAHB, Dreamland, and ZABA are timeless.
 <br />
@@ -33,5 +35,6 @@ To request your Spotify listening history, navigate to your account's privacy pa
 <img src="images/behavior.jpg" alt="Example Image 2" width="1000"><br />
 - This breaks down listens by device, shuffle frequency, plays by location, and some other metrics that aren't necessarily related to music preference.
 <br />
+
 <img src="images/behavior_switzerland.jpg" alt="Example Image 2" width="1000"><br />
 - These numbers for Switzerland would be much higher if my phone didn't die during my 4 hour 5,000' descent from Mannlichen to Lauterbrunnen. Switzerland is unbelievable and some Dark Side of the Moon would have been great company.
