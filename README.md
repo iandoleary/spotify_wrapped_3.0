@@ -7,6 +7,9 @@ I built this Power BI report to analyze my personal Spotify user data for the la
 
 - Home page<br />
 <img src="images/home.jpg" alt="Home" width="800"><br />
+- test 1
+- test 2
+
 - Main page<br />
 <img src="images/wrapped.jpg" alt="Example Image 2" width="800"><br />
 - Detail page<br />
