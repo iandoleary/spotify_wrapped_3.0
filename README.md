@@ -16,7 +16,7 @@ To request your Spotify listening history, navigate to your account's privacy pa
 - This page displays similar information to the real Spotify wrapped that gets sent to users: top artists, top songs, hours listened, favorite artist, favorite song, etc...
 <br />
 <img src="images/wrapped_pink_floyd.jpg" alt="Example Image 2" width="1000"><br />
-- Though not my most listened to artist, Pink Floyd is definitely my favorite. Listen to Echoes live in Pompeii and change my mind.
+* Though not my most listened to artist, Pink Floyd is definitely my favorite. Listen to Echoes live in Pompeii and change my mind.
 <br />
 
 ## Detail page<br />
